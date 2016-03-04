@@ -1,0 +1,14 @@
+{
+  "name": "mondo-lambda-auth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "name": "James Gillard",
+    "email": "jamesgillard@live.co.uk"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
